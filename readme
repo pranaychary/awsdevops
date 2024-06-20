@@ -1,0 +1,8 @@
+#this a project name called AWS RESOURCE TRACKER#
+This project is about "resourcetracker.sh," a shell script created to gather information about EC2 instances, Lambda functions, and S3 buckets. Utilizing cron jobs, it runs every 5 minutes and sends the collected data via email. The script streamlines resource tracking and reporting within an AWS environment, aiding in monitoring and management tasks. Its automation reduces manual effort, ensuring timely updates about critical resources and enhancing operational efficiency.
+
+
+
+
+
+
